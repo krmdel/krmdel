@@ -6,11 +6,11 @@ Machine Learning Engineer
 
 I'm a PhD researcher and machine learning engineer with 5+ years of experience in deep learning, data science and GenAI.
 
-* 🌍  I'm based in Singapore
+* 🌍  I'm based in Singapore.
 * 🖥️  See my portfolio at [my website](http://keremdelikoyun.com)
 * ✉️  You can contact me at [kerem.delikoyun@tum-create.edu.sg](mailto:kerem.delikoyun@tum-create.edu.sg)
-* 🚀  I'm currently working on automated scientific discovery agents
-* 👥  I'm looking to collaborate on GenAI projects in scientific discovery and engineering desing!
+* 🚀  I'm currently working on automated scientific discovery agents.
+* 👥  I'm looking to collaborate on GenAI projects in scientific discovery and engineering design!
 * 💬  Who's cooler than Iron Man? 😎
 
                                     ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⢄⢄⠢⡠⡀⢀⠄⡀⡀⠄⠄⠄⠄⠐⠡⠄⠉⠻⣻⣟⣿⣿⣄⠄⠄⠄⠄⠄⠄⠄⠄
