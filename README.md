@@ -4,13 +4,13 @@ Hi there, my name is Kerem Delikoyun! ![](https://user-images.githubusercontent.
 Machine Learning Engineer
 -------------------------
 
-I'm a PhD researcher and machine learning engineer with 5+ years of experience in deep learning, data science and GenAI.
+I'm a PhD researcher and AI/ML engineer with 5+ years of experience in deep learning, data science and GenAI.
 
 * 🌍  I'm based in Singapore.
 * 🖥️  See my portfolio at [my website](http://keremdelikoyun.com)
 * ✉️  You can contact me at [kerem.delikoyun@tum-create.edu.sg](mailto:kerem.delikoyun@tum-create.edu.sg)
-* 🚀  I'm currently working on automated scientific discovery agents.
-* 👥  I'm looking to collaborate on GenAI projects in scientific discovery and engineering design!
+* 🚀  I'm currently working on health AI agents and automated scientific discovery agents.
+* 👥  I'm looking to collaborate on GenAI projects in healthcare, scientific discovery and engineering design!
 * 💬  Who's cooler than Iron Man? 😎
 
                                     ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⢄⢄⠢⡠⡀⢀⠄⡀⡀⠄⠄⠄⠄⠐⠡⠄⠉⠻⣻⣟⣿⣿⣄⠄⠄⠄⠄⠄⠄⠄⠄
