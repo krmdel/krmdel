@@ -58,7 +58,7 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
 
 <a href="https://github.com/krmdel">
   <img
-    src="https://github-readme-stats-icra-liart-51.vercel.app/api?username=krmdel&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+    src="https://github-readme-stats-iota-liart-51.vercel.app/api?username=krmdel&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
     alt="krmdel's GitHub stats"
   />
 </a>
@@ -75,14 +75,14 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
 <div align="center">
   <a href="https://github.com/krmdel/rt_had">
     <img
-      src="https://github-readme-stats-icra-liart-51.vercel.app/api/pin/?username=krmdel&repo=rt_had&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=rt_had&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
       alt="rt_had"
       width="48%"
     />
   </a>
   <a href="https://github.com/krmdel/TriAgent">
     <img
-      src="https://github-readme-stats-icra-liart-51.vercel.app/api/pin/?username=krmdel&repo=TriAgent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=TriAgent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
       alt="TriAgent"
       width="48%"
     />
@@ -92,14 +92,14 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
 <div align="center">
   <a href="https://github.com/krmdel/medical_assistant_rag">
     <img
-      src="https://github-readme-stats-icra-liart-51.vercel.app/api/pin/?username=krmdel&repo=medical_assistant_rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=medical_assistant_rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
       alt="medical_assistant_rag"
       width="48%"
     />
   </a>
   <a href="https://github.com/krmdel/hospital_admission_prediction">
     <img
-      src="https://github-readme-stats-icra-liart-51.vercel.app/api/pin/?username=krmdel&repo=hospital_admission_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=hospital_admission_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
       alt="hospital_admission_prediction"
       width="48%"
     />
