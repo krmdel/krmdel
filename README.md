@@ -55,14 +55,52 @@ I'm a PhD researcher and AI/ML engineer with 5+ years of experience in deep lear
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/krmdel"><img src="https://github-readme-stats.vercel.app/api?username=krmdel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="krmdel's GitHub stats" /></a>
+<a href="https://github.com/krmdel">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=krmdel&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+    alt="krmdel's GitHub stats"
+  />
+</a>
 
-<a href="http://www.github.com/krmdel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krmdel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/krmdel">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=krmdel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+    alt="krmdel's GitHub streak stats"
+  />
+</a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/krmdel/rt_had" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmdel&repo=rt_had&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krmdel/TriAgent" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmdel&repo=TriAgent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+  <a href="https://github.com/krmdel/rt_had">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=krmdel&repo=rt_had&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      alt="rt_had"
+      style="max-width: 100%;"
+    />
+  </a>
+  <a href="https://github.com/krmdel/TriAgent">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=krmdel&repo=TriAgent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      alt="TriAgent"
+      style="max-width: 100%;"
+    />
+  </a>
+</p>
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/krmdel/medical_assistant_rag" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmdel&repo=medical_assistant_rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krmdel/hospital_admission_prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmdel&repo=hospital_admission_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<p align="center">
+  <a href="https://github.com/krmdel/medical_assistant_rag">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=krmdel&repo=medical_assistant_rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      alt="medical_assistant_rag"
+      style="max-width: 100%;"
+    />
+  </a>
+  <a href="https://github.com/krmdel/hospital_admission_prediction">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=krmdel&repo=hospital_admission_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      alt="hospital_admission_prediction"
+      style="max-width: 100%;"
+    />
+  </a>
+</p>
