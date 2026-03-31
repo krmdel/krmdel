@@ -1,7 +1,7 @@
 Hi there, my name is Kerem Delikoyun! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
-Machine Learning Engineer
+AI/ML Engineer
 -------------------------
 
 I'm a PhD researcher and AI/ML engineer with 5+ years of experience in deep learning, data science and GenAI.
