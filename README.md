@@ -4,7 +4,7 @@ Hi there, my name is Kerem Delikoyun! ![](https://user-images.githubusercontent.
 AI/ML Engineer
 -------------------------
 
-I'm a PhD researcher and AI/ML engineer with 5+ years of experience in deep learning, data science and GenAI.
+I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Computer Engineering from Technical University of Munich (TUM) with 5+ years of experience in deep learning, data science and GenAI.
 
 * 🌍  I'm based in Singapore.
 * 🖥️  See my portfolio at [my website](http://keremdelikoyun.com)
@@ -51,7 +51,7 @@ I'm a PhD researcher and AI/ML engineer with 5+ years of experience in deep lear
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/krmdel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/@keremdelikoyun" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/keremdelikoyun" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+#### Badges
 
 <b>My GitHub Stats</b>
 
