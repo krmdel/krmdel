@@ -45,7 +45,7 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
                                     ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠢⠠⠊⠨⠐⠈⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,cpp,postgres,fastapi,flask,mongodb,pytorch,docker,huggingface,kubernetes,aws" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,postgres,fastapi,flask,mongodb,pytorch,docker,kubernetes,aws" alt="Skills" />
 </a>
 
 ### Socials
