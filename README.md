@@ -77,20 +77,18 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
     <td>
       <a href="https://github.com/krmdel/organon">
         <img
-          src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=organon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=2"
+          src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=organon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=1"
           alt="organon"
           width="400"
-          height="150"
         />
       </a>
     </td>
     <td>
       <a href="https://github.com/krmdel/TriAgent">
         <img
-          src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=TriAgent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=2"
+          src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=TriAgent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=1"
           alt="TriAgent"
           width="400"
-          height="150"
         />
       </a>
     </td>
@@ -99,20 +97,18 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
     <td>
       <a href="https://github.com/krmdel/rt_had">
         <img
-          src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=rt_had&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=2"
+          src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=rt_had&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=1"
           alt="rt_had"
           width="400"
-          height="150"
         />
       </a>
     </td>
     <td>
       <a href="https://github.com/krmdel/medical_assistant_rag">
         <img
-          src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=medical_assistant_rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=2"
+          src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=medical_assistant_rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=1"
           alt="medical_assistant_rag"
           width="400"
-          height="150"
         />
       </a>
     </td>
