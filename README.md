@@ -77,6 +77,7 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
     <img
       src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=organon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=2"
       alt="organon"
+      width="400"
       height="150"
     />
   </a>
@@ -84,6 +85,7 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
     <img
       src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=TriAgent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=2"
       alt="TriAgent"
+      width="400"
       height="150"
     />
   </a>
@@ -94,6 +96,7 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
     <img
       src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=rt_had&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=2"
       alt="rt_had"
+      width="400"
       height="150"
     />
   </a>
@@ -101,6 +104,7 @@ I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Compu
     <img
       src="https://github-readme-stats-iota-liart-51.vercel.app/api/pin/?username=krmdel&repo=medical_assistant_rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2&locale=en&description_lines_max=2"
       alt="medical_assistant_rag"
+      width="400"
       height="150"
     />
   </a>
