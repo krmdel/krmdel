@@ -4,13 +4,13 @@ Hi there, my name is Kerem Delikoyun! ![](https://user-images.githubusercontent.
 AI/ML Engineer
 -------------------------
 
-I'm AI/ML engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Computer Engineering from Technical University of Munich (TUM) with nearly 10 years of experience in deep learning, data science and GenAI.
+I'm an AI engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Computer Engineering from Technical University of Munich (TUM) with nearly 10 years of experience in deep learning, data science and GenAI.
 
 * 🌍  I'm based in Singapore.
 * 🖥️  See my portfolio at [my website](http://keremdelikoyun.com)
 * ✉️  You can contact me at [kerem.delikoyun@tum-create.edu.sg](mailto:kerem.delikoyun@tum-create.edu.sg)
-* 🚀  I'm currently working on health AI agents and automated scientific discovery agents.
-* 👥  I'm looking to collaborate on GenAI projects in healthcare, scientific discovery and engineering design!
+* 🚀  I'm currently working on agent harness and AI platform engineering for financial institutions, in particular asset management.
+* 👥  I'm looking to collaborate on GenAI projects in engineering design and finance!
 * 💬  Who's cooler than Iron Man? 😎
 
                                     ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⢄⢄⠢⡠⡀⢀⠄⡀⡀⠄⠄⠄⠄⠐⠡⠄⠉⠻⣻⣟⣿⣿⣄⠄⠄⠄⠄⠄⠄⠄⠄
