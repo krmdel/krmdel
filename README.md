@@ -1,7 +1,7 @@
 Hi there, my name is Kerem Delikoyun! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
-AI/ML Engineer
+AI Engineer
 -------------------------
 
 I'm an AI engineer with Doctor of Engineering (Dr.-Ing.) in Electrical and Computer Engineering from Technical University of Munich (TUM) with nearly 10 years of experience in deep learning, data science and GenAI.
